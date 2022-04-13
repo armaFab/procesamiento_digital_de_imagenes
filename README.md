@@ -2,8 +2,8 @@
 proyecto de procesamiento digital de imagenes
 algoritmos programados
 ## suma
-## ## resta
-## ## operadores lógicos(and, or, not)
+## resta
+## operadores lógicos(and, or, not)
 ## escala de grises
 ## histograma a escala de grises
 ## histograma a color
